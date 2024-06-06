@@ -11,3 +11,7 @@ The aim for this chatboz is to:
 * Dynamically update the chat interface based on user interactions, ensuring a smooth and responsive experience.
 * Introduce advanced features like user name entry, message timestamps, and a graceful exit mechanism with departure messages.
 * Apply final touches and refinements to enhance the application's usability, appearance, and performance, preparing it for distribution and use.
+
+Running the Application:
+1. Run ChatServer
+2. Run Chat Client
